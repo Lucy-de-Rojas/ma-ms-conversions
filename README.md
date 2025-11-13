@@ -5,8 +5,9 @@
 
 [>> link to page << ](https://lucy-de-rojas.github.io/ph-ppm-mv-calculations/#page-1)
 
-<img
-width="60%"
-src="."
+![ma-ms-conversions screenshot](./ma-ms-conversions.jpg)
 
-/>
+
+
+
+_Figure: Example conversion interface used by Astles technicians._
