@@ -3,7 +3,8 @@
 ## Created for Astles technicians to run calculations while performing service of chemical process controls systems.
 
 
-[>> link to page << ](https://lucy-de-rojas.github.io/ma-ms-conversions/)
+<a href="https://lucy-de-rojas.github.io/ma-ms-conversions/" target="_blank" rel="noopener noreferrer">Open demo in a new tab</a>
+
 
 
 
